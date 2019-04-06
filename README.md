@@ -12,3 +12,12 @@ Baseline solution from contest's organizers can be found [here](https://yadi.sk/
 Repository contains only one notebook [`QueueEtrContest-FinalSolution.ipynb`](https://github.com/vbugaevskii/IDAO-2019-yandex-taxi/blob/master/QueueEtrContest-FinalSolution.ipynb). In this notebook you can find one common solution (model fitting stage) for all tracks (or airports, or datasets).
 
 Directory [`predict`](https://github.com/vbugaevskii/IDAO-2019-yandex-taxi/tree/master/predict) contains code (model prediction stage) used for final submission in [Yandex.Contest](https://contest.yandex.ru/) system. 
+
+## Leaderboard
+
+|             | Task A | Task B | Task C | Place |
+|-------------|--------|--------|--------|-------|
+| **public**  | 74.18  | 63.05  | 61.65  | 6     |
+| **private** | 73.96  | 63.27  | 61.77  | 8     |
+
+**Note:** Final score is (1 - sMAE) * 100.
