@@ -1,0 +1,2 @@
+1. Your submission should be a zip-archive with files in root directory (like solution_example.zip). A solution will be run through 'make run'
+2. Locally you can test through 'python predict.py < ../data/train/test_example.csv > submission.csv'
